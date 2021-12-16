@@ -21,13 +21,11 @@
 title: My blog
 email: tbvj1952@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  이 블로그는 유레카프로젝트 실습을 하면서 작성된 블로그입니다. git과 github, jekyll, markdown등을 이용하여 작성되었습니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: b_hind.20 (instagram)
+github_username:  bsh1706
 
 # Build settings
 theme: minima
